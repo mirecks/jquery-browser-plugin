@@ -1,0 +1,10 @@
+{
+  "name": "jquery.browser",
+  "description": "A jQuery plugin for browser detection.",
+  "version": "0.0.7",
+  "scripts": [
+    "dist/jquery.browser.js"
+  ],
+  "repository": "gabceb/jquery-browser-plugin",
+  "license": "MIT",
+}
